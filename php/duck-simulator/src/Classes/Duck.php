@@ -10,7 +10,7 @@ abstract class Duck {
 
 	/** @var FlyBehavior **/
 	private $flyBehavior;
-	/** @var QuackBehavior **/
+	/** @var QuackBehavior **/	
 	private $quackBehavior;
 
 	public function getFlyBehavior(): FlyBehavior {

@@ -7,6 +7,6 @@ use App\Behavior\FlyBehavior;
 final class FlyWithWings implements FlyBehavior {
 
 	public function fly() {
-		echo "I can fly";
+		echo "I can fly" . PHP_EOL;
 	}
 }
