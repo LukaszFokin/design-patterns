@@ -1,2 +1,4 @@
 .idea/
 __pycache__/
+vendor/
+.DS_Store

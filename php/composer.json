@@ -1,0 +1,16 @@
+{
+    "name": "lukasz.fokin/php",
+    "description": "Project to learn about designt patterns in php",
+    "autoload": {
+        "psr-4": {
+            "Strategy\\": "strategy/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lukasz Fokin",
+            "email": "lukasz.fokin@gmail.com"
+        }
+    ],
+    "require": {}
+}
