@@ -3,7 +3,8 @@
     "description": "Project to learn about designt patterns in php",
     "autoload": {
         "psr-4": {
-            "Strategy\\": "strategy/"
+            "Strategy\\": "strategy/",
+            "Observer\\": "observer/"
         }
     },
     "authors": [
